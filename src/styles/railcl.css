@@ -1,0 +1,17 @@
+.railcl {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1;
+}
+
+.railcl.underground {
+  opacity: 0.8;
+}
+
+.railcl.station {
+  stroke: rgb(153, 85, 85);
+}
+
+.railcl.station.underground {
+  stroke: rgb(187, 170, 170);
+}
